@@ -1,0 +1,5 @@
+rootProject.name = "Hello-Android"
+include ':app'
+include ':jnilibrary'
+include ':custom-view'
+include ':baseModule'
