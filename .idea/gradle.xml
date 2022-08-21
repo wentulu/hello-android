@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/baseModule" />
             <option value="$PROJECT_DIR$/custom-view" />
             <option value="$PROJECT_DIR$/jnilibrary" />
+            <option value="$PROJECT_DIR$/network" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

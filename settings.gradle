@@ -3,3 +3,5 @@ include ':app'
 include ':jnilibrary'
 include ':custom-view'
 include ':baseModule'
+
+include ':network'

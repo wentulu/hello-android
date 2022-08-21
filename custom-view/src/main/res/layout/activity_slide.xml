@@ -17,4 +17,23 @@
         android:background="@android:color/holo_red_light"
         android:layout_marginTop="60dp"/>
 
+    <com.start.custom.view.slide.ParamsLayout
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:background="@android:color/holo_green_light"
+        android:layout_marginTop="120dp"/>
+
+    <com.start.custom.view.slide.ScrollLayout
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:background="@android:color/holo_orange_light"
+        android:layout_marginTop="180dp"/>
+
+    <com.start.custom.view.slide.ScrollerLayout
+        android:id="@+id/scroller_layout"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:background="@android:color/darker_gray"
+        android:layout_marginTop="240dp"/>
+
 </FrameLayout>
